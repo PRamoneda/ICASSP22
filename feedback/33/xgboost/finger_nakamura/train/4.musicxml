@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE score-partwise  PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.1">
+  <work>
+    <work-title>Six Unison Melodies, no. 4, Mikrokosmos, Sz. 107</work-title>
+  </work>
+  <movement-title>4.xml</movement-title>
+  <identification>
+    <creator type="composer">Béla Bartók</creator>
+    <creator />
+    <rights>None</rights>
+    <encoding>
+      <encoding-date>2021-11-30</encoding-date>
+      <software>music21 v.7.1.0</software>
+    </encoding>
+  </identification>
+  <defaults>
+    <scaling>
+      <millimeters>71</millimeters>
+      <tenths>400</tenths>
+    </scaling>
+    <page-layout>
+      <page-height>717</page-height>
+      <page-width>1249</page-width>
+    </page-layout>
+  </defaults>
+  <part-list>
+    <score-part id="P1">
+      <part-name>Piano</part-name>
+      <part-abbreviation>Pno</part-abbreviation>
+      <score-instrument id="Ib35052ad24b1efd55dba0e13ee734522">
+        <instrument-name>Piano</instrument-name>
+        <instrument-abbreviation>Pno</instrument-abbreviation>
+      </score-instrument>
+      <midi-instrument id="Ib35052ad24b1efd55dba0e13ee734522">
+        <midi-channel>1</midi-channel>
+        <midi-program>1</midi-program>
+      </midi-instrument>
+    </score-part>
+    <score-part id="P2">
+      <part-name>Piano</part-name>
+      <part-abbreviation>Pno</part-abbreviation>
+      <score-instrument id="I593935cbb835247b636dbdac014a2319">
+        <instrument-name>Piano</instrument-name>
+        <instrument-abbreviation>Pno</instrument-abbreviation>
+      </score-instrument>
+      <midi-instrument id="I593935cbb835247b636dbdac014a2319">
+        <midi-channel>2</midi-channel>
+        <midi-program>1</midi-program>
+      </midi-instrument>
+    </score-part>
+  </part-list>
+  <!--=========================== Part 1 ===========================-->
+  <part id="P1">
+    <!--========================= Measure 1 ==========================-->
+    <measure number="1">
+      <attributes>
+        <divisions>10080</divisions>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <direction placement="above">
+        <direction-type>
+          <metronome parentheses="no">
+            <beat-unit>quarter</beat-unit>
+            <per-minute>96</per-minute>
+          </metronome>
+        </direction-type>
+        <sound tempo="96" />
+      </direction>
+      <note color="#A1DE00">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <slur number="1" type="start" />
+          <technical>
+            <fingering alternate="no" substitution="no">1</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#A1DE00">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#A1DE00">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">3</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 2 ==========================-->
+    <measure number="2">
+      <note color="#A1DE00">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#A1DE00">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#A1DE00">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">4</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 3 ==========================-->
+    <measure number="3">
+      <note color="#A1DE00">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <slur number="1" type="stop" />
+          <technical>
+            <fingering alternate="no" substitution="no">3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#A1DE00">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#A1DE00">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#A1DE00">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">4</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 4 ==========================-->
+    <measure number="4">
+      <note color="#A1DE00">
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#A1DE00">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">4</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 5 ==========================-->
+    <measure number="5">
+      <print new-system="yes" />
+      <note color="#A1DE00">
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <slur number="2" type="start" />
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#A1DE00">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#FFFFFF">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead color="#FFFFFF" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">3</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 6 ==========================-->
+    <measure number="6">
+      <note color="#FFFFFF">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead color="#FFFFFF" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#FFFFFF">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#FFFFFF" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#FFFFFF">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#FFFFFF" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 7 ==========================-->
+    <measure number="7">
+      <note color="#FFFFFF">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#FFFFFF" parentheses="no">normal</notehead>
+        <notations>
+          <slur number="2" type="stop" />
+          <technical>
+            <fingering alternate="no" substitution="no">1</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#FFFFFF">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#FFFFFF" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#FFFFFF">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead color="#FFFFFF" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">3</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 8 ==========================-->
+    <measure number="8">
+      <note color="#FFFFFF">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>40320</duration>
+        <type>whole</type>
+        <stem>up</stem>
+        <notehead color="#FFFFFF" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  <!--=========================== Part 2 ===========================-->
+  <part id="P2">
+    <!--========================= Measure 1 ==========================-->
+    <measure number="1">
+      <attributes>
+        <divisions>10080</divisions>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <note color="#A1DE00">
+        <pitch>
+          <step>B</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <slur number="3" type="start" />
+          <technical>
+            <fingering alternate="no" substitution="no">-5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#A1DE00">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#A1DE00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-3</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 2 ==========================-->
+    <measure number="2">
+      <note color="#A1DE00">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#A1DE00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#A1DE00">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-2</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 3 ==========================-->
+    <measure number="3">
+      <note color="#A1DE00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <slur number="3" type="stop" />
+          <technical>
+            <fingering alternate="no" substitution="no">-3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#A1DE00">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#A1DE00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#A1DE00">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-2</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 4 ==========================-->
+    <measure number="4">
+      <note color="#A1DE00">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-1</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#A1DE00">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-2</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 5 ==========================-->
+    <measure number="5">
+      <print new-system="yes" />
+      <note color="#A1DE00">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <slur number="4" type="start" />
+          <technical>
+            <fingering alternate="no" substitution="no">-1</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#A1DE00">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#A1DE00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-3</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 6 ==========================-->
+    <measure number="6">
+      <note color="#A1DE00">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#A1DE00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#A1DE00" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-1</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#FFFFFF">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead color="#FFFFFF" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-2</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 7 ==========================-->
+    <measure number="7">
+      <note color="#FFFFFF">
+        <pitch>
+          <step>B</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead color="#FFFFFF" parentheses="no">normal</notehead>
+        <notations>
+          <slur number="4" type="stop" />
+          <technical>
+            <fingering alternate="no" substitution="no">-3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#FFFFFF">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead color="#FFFFFF" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#FFFFFF">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead color="#FFFFFF" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-1</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 8 ==========================-->
+    <measure number="8">
+      <note color="#FFFFFF">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>40320</duration>
+        <type>whole</type>
+        <stem>up</stem>
+        <notehead color="#FFFFFF" parentheses="no">normal</notehead>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+</score-partwise>

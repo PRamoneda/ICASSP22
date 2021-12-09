@@ -1,0 +1,2165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE score-partwise  PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.1">
+  <work>
+    <work-title>Staccato and Legato (2, Canon), Mikrokosmos, Sz. 107</work-title>
+  </work>
+  <movement-title>39.xml</movement-title>
+  <identification>
+    <creator type="composer">Béla Bartók</creator>
+    <creator />
+    <rights>None</rights>
+    <encoding>
+      <encoding-date>2021-11-23</encoding-date>
+      <software>music21 v.7.1.0</software>
+    </encoding>
+  </identification>
+  <defaults>
+    <scaling>
+      <millimeters>69</millimeters>
+      <tenths>400</tenths>
+    </scaling>
+    <page-layout>
+      <page-height>1034</page-height>
+      <page-width>1274</page-width>
+    </page-layout>
+  </defaults>
+  <part-list>
+    <score-part id="P1">
+      <part-name>Piano</part-name>
+      <part-abbreviation>Pno</part-abbreviation>
+      <score-instrument id="Ie191fae4477b37395baa120aee8dbf50">
+        <instrument-name>Piano</instrument-name>
+        <instrument-abbreviation>Pno</instrument-abbreviation>
+      </score-instrument>
+      <midi-instrument id="Ie191fae4477b37395baa120aee8dbf50">
+        <midi-channel>1</midi-channel>
+        <midi-program>1</midi-program>
+      </midi-instrument>
+    </score-part>
+    <score-part id="P2">
+      <part-name>Piano</part-name>
+      <part-abbreviation>Pno</part-abbreviation>
+      <score-instrument id="Iea3a40268b8114d44c47d2b29ac4b5ab">
+        <instrument-name>Piano</instrument-name>
+        <instrument-abbreviation>Pno</instrument-abbreviation>
+      </score-instrument>
+      <midi-instrument id="Iea3a40268b8114d44c47d2b29ac4b5ab">
+        <midi-channel>2</midi-channel>
+        <midi-program>1</midi-program>
+      </midi-instrument>
+    </score-part>
+  </part-list>
+  <!--=========================== Part 1 ===========================-->
+  <part id="P1">
+    <!--========================= Measure 1 ==========================-->
+    <measure number="1">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>-1</fifths>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <direction placement="above">
+        <direction-type>
+          <words enclosure="none" relative-x="0" relative-y="-5">3</words>
+        </direction-type>
+      </direction>
+      <direction placement="above">
+        <direction-type>
+          <metronome parentheses="no">
+            <beat-unit>quarter</beat-unit>
+            <per-minute>88</per-minute>
+          </metronome>
+        </direction-type>
+        <sound tempo="88" />
+      </direction>
+      <direction placement="above">
+        <direction-type>
+          <dynamics default-x="-36" default-y="-80" relative-x="-26" relative-y="-89">
+            <mf />
+          </dynamics>
+        </direction-type>
+        <sound dynamics="69" />
+      </direction>
+      <note color="#3333FF">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead color="#3333FF" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#6666FF">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead color="#6666FF" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#6666FF">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead color="#6666FF" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#9999FF">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead color="#9999FF" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">4</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 2 ==========================-->
+    <measure number="2">
+      <note color="#B3B3FF">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#B3B3FF" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur number="1" type="start" />
+          <technical>
+            <fingering alternate="no" substitution="no">4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#B3B3FF">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#B3B3FF" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#9999FF">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#9999FF" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#6666FF">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#6666FF" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#3333FF">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead color="#3333FF" parentheses="no">normal</notehead>
+        <notations>
+          <slur number="1" type="stop" />
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#0000FF">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#0000FF" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur number="2" type="start" />
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#0000CC">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#0000CC" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">3</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 3 ==========================-->
+    <measure number="3">
+      <note color="#0000CC">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#0000CC" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#0000CC">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#0000CC" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#0000FF">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead color="#0000FF" parentheses="no">normal</notehead>
+        <notations>
+          <slur number="2" type="stop" />
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#6666FF">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#6666FF" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur number="3" type="start" />
+          <technical>
+            <fingering alternate="no" substitution="no">3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#9999FF">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#9999FF" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#B3B3FF">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead color="#B3B3FF" parentheses="no">normal</notehead>
+        <notations>
+          <slur number="3" type="stop" />
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">3</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 4 ==========================-->
+    <measure number="4">
+      <print new-system="yes" />
+      <note color="#9999FF">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#9999FF" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur number="4" type="start" />
+          <technical>
+            <fingering alternate="no" substitution="no">3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#6666FF">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#6666FF" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#3333FF">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#3333FF" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#3333FF">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#3333FF" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#0000FF">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#0000FF" parentheses="no">normal</notehead>
+        <notations>
+          <slur number="4" type="stop" />
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">1</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#0000CC">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#0000CC" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">4</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 5 ==========================-->
+    <measure number="5">
+      <note color="#0000CC">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#0000CC" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#0000CC">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#0000CC" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 6 ==========================-->
+    <measure number="6">
+      <note>
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur number="5" type="start" />
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">4</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 7 ==========================-->
+    <measure number="7">
+      <note color="#000061">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <notations>
+          <slur number="5" type="stop" />
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur number="6" type="start" />
+          <technical>
+            <fingering alternate="no" substitution="no">4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <notations>
+          <slur number="6" type="stop" />
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 8 ==========================-->
+    <measure number="8">
+      <print new-system="yes" />
+      <note color="#000061">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur number="1" type="start" />
+          <technical>
+            <fingering alternate="no" substitution="no">4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <notations>
+          <slur number="1" type="stop" />
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur number="2" type="start" />
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#0000CC">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#0000CC" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#0000CC">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#0000CC" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 9 ==========================-->
+    <measure number="9">
+      <note color="#0000FF">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#0000FF" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#3333FF">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#3333FF" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#6666FF">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead color="#6666FF" parentheses="no">normal</notehead>
+        <notations>
+          <slur number="2" type="stop" />
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#9999FF">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#9999FF" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur number="3" type="start" />
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#9999FF">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#9999FF" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#6666FF">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#6666FF" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#3333FF">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notehead color="#3333FF" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">3</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 10 =========================-->
+    <measure number="10">
+      <direction placement="above">
+        <direction-type>
+          <dynamics default-x="-36" default-y="-80" relative-x="-8" relative-y="-89">
+            <f />
+          </dynamics>
+        </direction-type>
+        <sound dynamics="88" />
+      </direction>
+      <note color="#3333FF">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead color="#3333FF" parentheses="no">normal</notehead>
+        <notations>
+          <slur number="3" type="stop" />
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#3333FF">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead color="#3333FF" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#3333FF">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead color="#3333FF" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#6666FF">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead color="#6666FF" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 11 =========================-->
+    <measure number="11">
+      <note>
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note color="#B3B3FF">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead color="#B3B3FF" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note>
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note color="#FFFFFF">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead color="#FFFFFF" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">0</fingering>
+          </technical>
+        </notations>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  <!--=========================== Part 2 ===========================-->
+  <part id="P2">
+    <!--========================= Measure 1 ==========================-->
+    <measure number="1">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>-1</fifths>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <note>
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+    <!--========================= Measure 2 ==========================-->
+    <measure number="2">
+      <note color="#B3B3FF">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#B3B3FF" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">-2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#9999FF">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#9999FF" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">-2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#3333FF">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#3333FF" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">-2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#0000FF">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#0000FF" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">-2</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 3 ==========================-->
+    <measure number="3">
+      <note color="#0000CC">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#0000CC" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur number="4" type="start" />
+          <technical>
+            <fingering alternate="no" substitution="no">-3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#0000CC">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#0000CC" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#0000FF">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#0000FF" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#3333FF">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#3333FF" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#6666FF">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#6666FF" parentheses="no">normal</notehead>
+        <notations>
+          <slur number="4" type="stop" />
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">-5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#B3B3FF">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#B3B3FF" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur number="5" type="start" />
+          <technical>
+            <fingering alternate="no" substitution="no">-5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#B3B3FF">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#B3B3FF" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <notations>
+          <slur number="5" type="stop" />
+          <technical>
+            <fingering alternate="no" substitution="no">-4</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 4 ==========================-->
+    <measure number="4">
+      <print new-system="yes" />
+      <note color="#9999FF">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#9999FF" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur number="6" type="start" />
+          <technical>
+            <fingering alternate="no" substitution="no">-3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#6666FF">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#6666FF" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#3333FF">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#3333FF" parentheses="no">normal</notehead>
+        <notations>
+          <slur number="6" type="stop" />
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">-4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#0000FF">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#0000FF" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur number="1" type="start" />
+          <technical>
+            <fingering alternate="no" substitution="no">-4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#0000FF">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#0000FF" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#0000CC">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#0000CC" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#0000CC">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#0000CC" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-3</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 5 ==========================-->
+    <measure number="5">
+      <note color="#0000CC">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#0000CC" parentheses="no">normal</notehead>
+        <notations>
+          <slur number="1" type="stop" />
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">-1</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#0000CC">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#0000CC" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">-2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note>
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">-2</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 6 ==========================-->
+    <measure number="6">
+      <note color="#000061">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">-2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">-2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">-2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">-2</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 7 ==========================-->
+    <measure number="7">
+      <note color="#000061">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">-2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur number="2" type="start" />
+          <technical>
+            <fingering alternate="no" substitution="no">-2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <notations>
+          <slur number="2" type="stop" />
+          <technical>
+            <fingering alternate="no" substitution="no">-4</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 8 ==========================-->
+    <measure number="8">
+      <print new-system="yes" />
+      <note color="#000061">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">-3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur number="3" type="start" />
+          <technical>
+            <fingering alternate="no" substitution="no">-3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#000061">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#000061" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#0000CC">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#0000CC" parentheses="no">normal</notehead>
+        <notations>
+          <slur number="3" type="stop" />
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">-5</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 9 ==========================-->
+    <measure number="9">
+      <note color="#0000FF">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#0000FF" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur number="4" type="start" />
+          <technical>
+            <fingering alternate="no" substitution="no">-5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#3333FF">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#3333FF" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#6666FF">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#6666FF" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#9999FF">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#9999FF" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#9999FF">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#9999FF" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#9999FF">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#9999FF" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#6666FF">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#6666FF" parentheses="no">normal</notehead>
+        <notations>
+          <slur number="4" type="stop" />
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">-5</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 10 =========================-->
+    <measure number="10">
+      <note color="#3333FF">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#3333FF" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur number="5" type="start" />
+          <technical>
+            <fingering alternate="no" substitution="no">-4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#3333FF">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#3333FF" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#3333FF">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#3333FF" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#3333FF">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notehead color="#3333FF" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">-3</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#3333FF">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#3333FF" parentheses="no">normal</notehead>
+        <notations>
+          <slur number="5" type="stop" />
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">-4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#6666FF">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#6666FF" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">-4</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 11 =========================-->
+    <measure number="11">
+      <note color="#9999FF">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#9999FF" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">-4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#B3B3FF">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#B3B3FF" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">-4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#E6E6FF">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#E6E6FF" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">-4</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note color="#FFFFFF">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead color="#FFFFFF" parentheses="no">normal</notehead>
+        <notations>
+          <articulations>
+            <staccato />
+          </articulations>
+          <technical>
+            <fingering alternate="no" substitution="no">0</fingering>
+          </technical>
+        </notations>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+</score-partwise>
