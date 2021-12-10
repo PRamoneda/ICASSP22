@@ -1,0 +1,419 @@
+poch: 1 | val_loss: -1.0173313617706299                                                                     
+Epoch:   1%|▋                                                               | 2/200 [00:01<02:04,  1.59it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 2 | val_loss: -2.497709274291992                                                                      
+Epoch:   2%|▉                                                               | 3/200 [00:01<01:41,  1.95it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 3 | val_loss: -2.669060707092285                                                                      
+Epoch:   2%|█▎                                                              | 4/200 [00:02<01:29,  2.19it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 4 | val_loss: -0.7634336948394775                                                                     
+Epoch:   2%|█▌                                                              | 5/200 [00:02<01:22,  2.36it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 5 | val_loss: -4.445869445800781                                                                      
+Epoch:   3%|█▉                                                              | 6/200 [00:02<01:18,  2.47it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 6 | val_loss: -4.925522804260254                                                                      
+Epoch:   4%|██▏                                                             | 7/200 [00:03<01:15,  2.56it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 7 | val_loss: -5.0409746170043945                                                                     
+Epoch:   4%|██▌                                                             | 8/200 [00:03<01:13,  2.61it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 8 | val_loss: -6.009194374084473                                                                      
+Epoch:   4%|██▉                                                             | 9/200 [00:03<01:12,  2.64it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 9 | val_loss: -6.366146087646484                                                                      
+Epoch:   5%|███▏                                                           | 10/200 [00:04<01:11,  2.67it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                          Leaking Caffe2 thread-pool after fork. (function pthreadpool)             
+Accuracy: 81.33%
+Accuracy: 80.19%
+Epoch: 10 | val_loss: -7.264388084411621
+Epoch:   6%|███▍                                                           | 11/200 [00:04<01:26,  2.18it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 11 | val_loss: -8.228875160217285                                                                     
+Epoch:   6%|███▊                                                           | 12/200 [00:05<01:20,  2.33it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 12 | val_loss: -9.348355293273926                                                                     
+Epoch:   6%|████                                                           | 13/200 [00:05<01:16,  2.44it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 13 | val_loss: -10.154718399047852                                                                    
+Epoch:   7%|████▍                                                          | 14/200 [00:06<01:14,  2.51it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 14 | val_loss: -11.021780967712402                                                                    
+Epoch:   8%|████▋                                                          | 15/200 [00:06<01:12,  2.57it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 15 | val_loss: -10.735442161560059                                                                    
+Epoch:   8%|█████                                                          | 16/200 [00:06<01:10,  2.61it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 16 | val_loss: -10.862324714660645                                                                    
+Epoch:   8%|█████▎                                                         | 17/200 [00:07<01:09,  2.64it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 17 | val_loss: -12.990168571472168                                                                    
+Epoch:   9%|█████▋                                                         | 18/200 [00:07<01:08,  2.67it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 18 | val_loss: -13.825456619262695                                                                    
+Epoch:  10%|█████▉                                                         | 19/200 [00:07<01:07,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 19 | val_loss: -14.946380615234375                                                                    
+Epoch:  10%|██████▎                                                        | 20/200 [00:08<01:06,  2.72it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 20 | val_loss: -16.17974281311035                                                                     
+Epoch:  10%|██████▌                                                        | 21/200 [00:08<01:05,  2.73it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 21 | val_loss: -17.291873931884766                                                                    
+Epoch:  11%|██████▉                                                        | 22/200 [00:08<01:04,  2.75it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 22 | val_loss: -18.387338638305664                                                                    
+Epoch:  12%|███████▏                                                       | 23/200 [00:09<01:04,  2.74it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 23 | val_loss: -19.52573585510254                                                                     
+Epoch:  12%|███████▌                                                       | 24/200 [00:09<01:04,  2.75it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 24 | val_loss: -21.3685359954834                                                                      
+Epoch:  12%|███████▉                                                       | 25/200 [00:10<01:03,  2.74it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                          Leaking Caffe2 thread-pool after fork. (function pthreadpool)             
+Accuracy: 85.33%
+Accuracy: 66.01%
+Epoch: 25 | val_loss: -21.89716339111328
+Epoch:  13%|████████▏                                                      | 26/200 [00:10<01:21,  2.14it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 26 | val_loss: -22.596534729003906                                                                    
+Epoch:  14%|████████▌                                                      | 27/200 [00:11<01:15,  2.29it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 27 | val_loss: -22.869905471801758                                                                    
+Epoch:  14%|████████▊                                                      | 28/200 [00:11<01:11,  2.40it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 28 | val_loss: -24.998973846435547                                                                    
+Epoch:  14%|█████████▏                                                     | 29/200 [00:11<01:08,  2.49it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 29 | val_loss: -26.297771453857422                                                                    
+Epoch:  15%|█████████▍                                                     | 30/200 [00:12<01:07,  2.53it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 30 | val_loss: -27.421524047851562                                                                    
+Epoch:  16%|█████████▊                                                     | 31/200 [00:12<01:05,  2.58it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 31 | val_loss: -29.06195831298828                                                                     
+Epoch:  16%|██████████                                                     | 32/200 [00:12<01:04,  2.62it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 32 | val_loss: -30.49568748474121                                                                     
+Epoch:  16%|██████████▍                                                    | 33/200 [00:13<01:03,  2.64it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 33 | val_loss: -32.05213928222656                                                                     
+Epoch:  17%|██████████▋                                                    | 34/200 [00:13<01:02,  2.66it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 34 | val_loss: -33.662071228027344                                                                    
+Epoch:  18%|███████████                                                    | 35/200 [00:14<01:01,  2.67it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 35 | val_loss: -35.26002883911133                                                                     
+Epoch:  18%|███████████▎                                                   | 36/200 [00:14<01:01,  2.68it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 36 | val_loss: -37.26423645019531                                                                     
+Epoch:  18%|███████████▋                                                   | 37/200 [00:14<01:00,  2.69it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 37 | val_loss: -38.520790100097656                                                                    
+Epoch:  19%|███████████▉                                                   | 38/200 [00:15<01:00,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 38 | val_loss: -40.77435302734375                                                                     
+Epoch:  20%|████████████▎                                                  | 39/200 [00:15<00:59,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 39 | val_loss: -42.502323150634766                                                                    
+Epoch:  20%|████████████▌                                                  | 40/200 [00:15<00:59,  2.71it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 40 | val_loss: -43.786746978759766                                                                    
+Epoch:  20%|████████████▉                                                  | 41/200 [00:16<00:58,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 41 | val_loss: -44.4547233581543                                                                      
+Epoch:  21%|█████████████▏                                                 | 42/200 [00:16<00:58,  2.72it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 42 | val_loss: -45.10205078125                                                                        
+Epoch:  22%|█████████████▌                                                 | 43/200 [00:17<00:57,  2.72it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 43 | val_loss: -45.50099563598633                                                                     
+Epoch:  22%|█████████████▊                                                 | 44/200 [00:17<00:57,  2.72it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 44 | val_loss: -48.050743103027344                                                                    
+Epoch:  22%|██████████████▏                                                | 45/200 [00:17<00:57,  2.71it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 45 | val_loss: -49.434722900390625                                                                    
+Epoch:  23%|██████████████▍                                                | 46/200 [00:18<00:56,  2.72it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 46 | val_loss: -50.9087028503418                                                                      
+Epoch:  24%|██████████████▊                                                | 47/200 [00:18<00:56,  2.73it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 47 | val_loss: -54.22242736816406                                                                     
+Epoch:  24%|███████████████                                                | 48/200 [00:18<00:55,  2.72it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 48 | val_loss: -55.69390106201172                                                                     
+Epoch:  24%|███████████████▍                                               | 49/200 [00:19<00:55,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 49 | val_loss: -57.89112091064453                                                                     
+Epoch:  25%|███████████████▊                                               | 50/200 [00:19<00:55,  2.68it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                          Leaking Caffe2 thread-pool after fork. (function pthreadpool)             
+Accuracy: 92.00%
+Accuracy: 71.13%
+Epoch: 50 | val_loss: -61.4998893737793
+Epoch:  26%|████████████████                                               | 51/200 [00:20<01:08,  2.16it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 51 | val_loss: -63.396610260009766                                                                    
+Epoch:  26%|████████████████▍                                              | 52/200 [00:20<01:04,  2.31it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 52 | val_loss: -64.29843139648438                                                                     
+Epoch:  26%|████████████████▋                                              | 53/200 [00:21<01:00,  2.43it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 53 | val_loss: -67.01791381835938                                                                     
+Epoch:  27%|█████████████████                                              | 54/200 [00:21<00:58,  2.51it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 54 | val_loss: -68.2457046508789                                                                      
+Epoch:  28%|█████████████████▎                                             | 55/200 [00:21<00:56,  2.57it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 55 | val_loss: -70.99375915527344                                                                     
+Epoch:  28%|█████████████████▋                                             | 56/200 [00:22<00:55,  2.62it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 56 | val_loss: -72.57176971435547                                                                     
+Epoch:  28%|█████████████████▉                                             | 57/200 [00:22<00:53,  2.65it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 57 | val_loss: -74.99826049804688                                                                     
+Epoch:  29%|██████████████████▎                                            | 58/200 [00:22<00:53,  2.67it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 58 | val_loss: -77.5555419921875                                                                      
+Epoch:  30%|██████████████████▌                                            | 59/200 [00:23<00:53,  2.66it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 59 | val_loss: -80.09365844726562                                                                     
+Epoch:  30%|██████████████████▉                                            | 60/200 [00:23<00:52,  2.66it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 60 | val_loss: -79.38353729248047                                                                     
+Epoch:  30%|███████████████████▏                                           | 61/200 [00:24<00:51,  2.68it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 61 | val_loss: -83.11488342285156                                                                     
+Epoch:  31%|███████████████████▌                                           | 62/200 [00:24<00:51,  2.68it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 62 | val_loss: -81.78347778320312                                                                     
+Epoch:  32%|███████████████████▊                                           | 63/200 [00:24<00:51,  2.68it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 63 | val_loss: -82.62377166748047                                                                     
+Epoch:  32%|████████████████████▏                                          | 64/200 [00:25<00:50,  2.69it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 64 | val_loss: -84.54283905029297                                                                     
+Epoch:  32%|████████████████████▍                                          | 65/200 [00:25<00:49,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 65 | val_loss: -92.12077331542969                                                                     
+Epoch:  33%|████████████████████▊                                          | 66/200 [00:25<00:49,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 66 | val_loss: -92.5679931640625                                                                      
+Epoch:  34%|█████████████████████                                          | 67/200 [00:26<00:49,  2.71it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 67 | val_loss: -95.64801025390625                                                                     
+Epoch:  34%|█████████████████████▍                                         | 68/200 [00:26<00:48,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 68 | val_loss: -96.91803741455078                                                                     
+Epoch:  34%|█████████████████████▋                                         | 69/200 [00:26<00:49,  2.64it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 69 | val_loss: -100.22221374511719                                                                    
+Epoch:  35%|██████████████████████                                         | 70/200 [00:27<00:48,  2.67it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 70 | val_loss: -102.72532653808594                                                                    
+Epoch:  36%|██████████████████████▎                                        | 71/200 [00:27<00:47,  2.71it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 71 | val_loss: -105.48341369628906                                                                    
+Epoch:  36%|██████████████████████▋                                        | 72/200 [00:28<00:47,  2.72it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 72 | val_loss: -108.6272964477539                                                                     
+Epoch:  36%|██████████████████████▉                                        | 73/200 [00:28<00:46,  2.71it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 73 | val_loss: -111.24120330810547                                                                    
+Epoch:  37%|███████████████████████▎                                       | 74/200 [00:28<00:46,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 74 | val_loss: -114.44203186035156                                                                    
+Epoch:  38%|███████████████████████▋                                       | 75/200 [00:29<00:45,  2.72it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                          Leaking Caffe2 thread-pool after fork. (function pthreadpool)             
+Accuracy: 100.00%
+Accuracy: 59.98%
+Epoch: 75 | val_loss: -115.15794372558594
+Epoch:  38%|███████████████████████▉                                       | 76/200 [00:29<00:55,  2.22it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 76 | val_loss: -118.3169937133789                                                                     
+Epoch:  38%|████████████████████████▎                                      | 77/200 [00:30<00:52,  2.34it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 77 | val_loss: -122.35304260253906                                                                    
+Epoch:  39%|████████████████████████▌                                      | 78/200 [00:30<00:49,  2.45it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 78 | val_loss: -125.09205627441406                                                                    
+Epoch:  40%|████████████████████████▉                                      | 79/200 [00:30<00:48,  2.51it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 79 | val_loss: -127.56138610839844                                                                    
+Epoch:  40%|█████████████████████████▏                                     | 80/200 [00:31<00:46,  2.57it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 80 | val_loss: -130.98379516601562                                                                    
+Epoch:  40%|█████████████████████████▌                                     | 81/200 [00:31<00:45,  2.60it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 81 | val_loss: -132.3857421875                                                                        
+Epoch:  41%|█████████████████████████▊                                     | 82/200 [00:32<00:44,  2.65it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 82 | val_loss: -136.38941955566406                                                                    
+Epoch:  42%|██████████████████████████▏                                    | 83/200 [00:32<00:44,  2.65it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 83 | val_loss: -139.6278076171875                                                                     
+Epoch:  42%|██████████████████████████▍                                    | 84/200 [00:32<00:43,  2.67it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 84 | val_loss: -141.28790283203125                                                                    
+Epoch:  42%|██████████████████████████▊                                    | 85/200 [00:33<00:43,  2.66it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 85 | val_loss: -146.47732543945312                                                                    
+Epoch:  43%|███████████████████████████                                    | 86/200 [00:33<00:42,  2.67it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 86 | val_loss: -148.3395538330078                                                                     
+Epoch:  44%|███████████████████████████▍                                   | 87/200 [00:33<00:42,  2.68it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 87 | val_loss: -149.171630859375                                                                      
+Epoch:  44%|███████████████████████████▋                                   | 88/200 [00:34<00:41,  2.69it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 88 | val_loss: -153.55923461914062                                                                    
+Epoch:  44%|████████████████████████████                                   | 89/200 [00:34<00:41,  2.68it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 89 | val_loss: -154.22012329101562                                                                    
+Epoch:  45%|████████████████████████████▎                                  | 90/200 [00:35<00:40,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 90 | val_loss: -157.29368591308594                                                                    
+Epoch:  46%|████████████████████████████▋                                  | 91/200 [00:35<00:40,  2.71it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 91 | val_loss: -159.43328857421875                                                                    
+Epoch:  46%|████████████████████████████▉                                  | 92/200 [00:35<00:39,  2.71it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 92 | val_loss: -165.05459594726562                                                                    
+Epoch:  46%|█████████████████████████████▎                                 | 93/200 [00:36<00:39,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 93 | val_loss: -166.7977752685547                                                                     
+Epoch:  47%|█████████████████████████████▌                                 | 94/200 [00:36<00:39,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 94 | val_loss: -170.83473205566406                                                                    
+Epoch:  48%|█████████████████████████████▉                                 | 95/200 [00:36<00:38,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 95 | val_loss: -174.0562744140625                                                                     
+Epoch:  48%|██████████████████████████████▏                                | 96/200 [00:37<00:38,  2.72it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 96 | val_loss: -175.56637573242188                                                                    
+Epoch:  48%|██████████████████████████████▌                                | 97/200 [00:37<00:37,  2.73it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 97 | val_loss: -179.9570770263672                                                                     
+Epoch:  49%|██████████████████████████████▊                                | 98/200 [00:37<00:37,  2.72it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 98 | val_loss: -181.58615112304688                                                                    
+Epoch:  50%|███████████████████████████████▏                               | 99/200 [00:38<00:37,  2.72it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 99 | val_loss: -183.9637451171875                                                                     
+Epoch:  50%|███████████████████████████████                               | 100/200 [00:38<00:36,  2.72it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                          Leaking Caffe2 thread-pool after fork. (function pthreadpool)             
+Accuracy: 100.00%
+Accuracy: 48.37%
+Epoch: 100 | val_loss: -187.33157348632812
+Epoch:  50%|███████████████████████████████▎                              | 101/200 [00:39<00:45,  2.19it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 101 | val_loss: -192.71405029296875                                                                   
+Epoch:  51%|███████████████████████████████▌                              | 102/200 [00:39<00:42,  2.33it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 102 | val_loss: -194.15689086914062                                                                   
+Epoch:  52%|███████████████████████████████▉                              | 103/200 [00:40<00:39,  2.43it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 103 | val_loss: -198.38723754882812                                                                   
+Epoch:  52%|████████████████████████████████▏                             | 104/200 [00:40<00:38,  2.49it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 104 | val_loss: -201.4399871826172                                                                    
+Epoch:  52%|████████████████████████████████▌                             | 105/200 [00:40<00:37,  2.56it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 105 | val_loss: -203.92596435546875                                                                   
+Epoch:  53%|████████████████████████████████▊                             | 106/200 [00:41<00:36,  2.59it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 106 | val_loss: -208.90286254882812                                                                   
+Epoch:  54%|█████████████████████████████████▏                            | 107/200 [00:41<00:35,  2.63it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 107 | val_loss: -210.4113006591797                                                                    
+Epoch:  54%|█████████████████████████████████▍                            | 108/200 [00:41<00:34,  2.65it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 108 | val_loss: -212.609375                                                                           
+Epoch:  55%|█████████████████████████████████▊                            | 109/200 [00:42<00:34,  2.65it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 109 | val_loss: -215.79592895507812                                                                   
+Epoch:  55%|██████████████████████████████████                            | 110/200 [00:42<00:33,  2.65it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 110 | val_loss: -219.27149963378906                                                                   
+Epoch:  56%|██████████████████████████████████▍                           | 111/200 [00:43<00:33,  2.68it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 111 | val_loss: -219.1990966796875                                                                    
+Epoch:  56%|██████████████████████████████████▋                           | 112/200 [00:43<00:32,  2.69it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 112 | val_loss: -222.7002410888672                                                                    
+Epoch:  56%|███████████████████████████████████                           | 113/200 [00:43<00:32,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 113 | val_loss: -227.27383422851562                                                                   
+Epoch:  57%|███████████████████████████████████▎                          | 114/200 [00:44<00:31,  2.69it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 114 | val_loss: -229.1151580810547                                                                    
+Epoch:  57%|███████████████████████████████████▋                          | 115/200 [00:44<00:31,  2.71it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 115 | val_loss: -234.07876586914062                                                                   
+Epoch:  58%|███████████████████████████████████▉                          | 116/200 [00:44<00:31,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 116 | val_loss: -235.70108032226562                                                                   
+Epoch:  58%|████████████████████████████████████▎                         | 117/200 [00:45<00:30,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 117 | val_loss: -237.72259521484375                                                                   
+Epoch:  59%|████████████████████████████████████▌                         | 118/200 [00:45<00:30,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 118 | val_loss: -240.45884704589844                                                                   
+Epoch:  60%|████████████████████████████████████▉                         | 119/200 [00:46<00:29,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 119 | val_loss: -246.13931274414062                                                                   
+Epoch:  60%|█████████████████████████████████████▏                        | 120/200 [00:46<00:29,  2.71it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 120 | val_loss: -251.388427734375                                                                     
+Epoch:  60%|█████████████████████████████████████▌                        | 121/200 [00:46<00:29,  2.72it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 121 | val_loss: -256.2018737792969                                                                    
+Epoch:  61%|█████████████████████████████████████▊                        | 122/200 [00:47<00:28,  2.73it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 122 | val_loss: -256.0325622558594                                                                    
+Epoch:  62%|██████████████████████████████████████▏                       | 123/200 [00:47<00:28,  2.73it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 123 | val_loss: -265.0920104980469                                                                    
+Epoch:  62%|██████████████████████████████████████▍                       | 124/200 [00:47<00:27,  2.72it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 124 | val_loss: -258.4539794921875                                                                    
+Epoch:  62%|██████████████████████████████████████▊                       | 125/200 [00:48<00:27,  2.71it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 125 | val_loss: -265.95147705078125                                                                   
+Epoch:  63%|███████████████████████████████████████                       | 126/200 [00:48<00:27,  2.71it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 126 | val_loss: -272.65936279296875                                                                   
+Epoch:  64%|███████████████████████████████████████▎                      | 127/200 [00:48<00:26,  2.72it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 127 | val_loss: -278.184814453125                                                                     
+Epoch:  64%|███████████████████████████████████████▋                      | 128/200 [00:49<00:26,  2.72it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 128 | val_loss: -286.9718017578125                                                                    
+Epoch:  64%|███████████████████████████████████████▉                      | 129/200 [00:49<00:26,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 129 | val_loss: -286.2235107421875                                                                    
+Epoch:  65%|████████████████████████████████████████▎                     | 130/200 [00:50<00:25,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 130 | val_loss: -289.8065185546875                                                                    
+Epoch:  66%|████████████████████████████████████████▌                     | 131/200 [00:50<00:25,  2.71it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 131 | val_loss: -297.21234130859375                                                                   
+Epoch:  66%|████████████████████████████████████████▉                     | 132/200 [00:50<00:25,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 132 | val_loss: -299.8099365234375                                                                    
+Epoch:  66%|█████████████████████████████████████████▏                    | 133/200 [00:51<00:24,  2.71it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 133 | val_loss: -303.5434265136719                                                                    
+Epoch:  67%|█████████████████████████████████████████▌                    | 134/200 [00:51<00:24,  2.71it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 134 | val_loss: -305.89959716796875                                                                   
+Epoch:  68%|█████████████████████████████████████████▊                    | 135/200 [00:51<00:23,  2.73it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 135 | val_loss: -310.92425537109375                                                                   
+Epoch:  68%|██████████████████████████████████████████▏                   | 136/200 [00:52<00:23,  2.73it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 136 | val_loss: -319.0655212402344                                                                    
+Epoch:  68%|██████████████████████████████████████████▍                   | 137/200 [00:52<00:23,  2.72it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 137 | val_loss: -322.7935791015625                                                                    
+Epoch:  69%|██████████████████████████████████████████▊                   | 138/200 [00:53<00:22,  2.73it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 138 | val_loss: -320.8528747558594                                                                    
+Epoch:  70%|███████████████████████████████████████████                   | 139/200 [00:53<00:22,  2.71it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 139 | val_loss: -330.55023193359375                                                                   
+Epoch:  70%|███████████████████████████████████████████▍                  | 140/200 [00:53<00:22,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 140 | val_loss: -334.5707702636719                                                                    
+Epoch:  70%|███████████████████████████████████████████▋                  | 141/200 [00:54<00:21,  2.69it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 141 | val_loss: -342.2183837890625                                                                    
+Epoch:  71%|████████████████████████████████████████████                  | 142/200 [00:54<00:21,  2.69it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 142 | val_loss: -343.18212890625                                                                      
+Epoch:  72%|████████████████████████████████████████████▎                 | 143/200 [00:54<00:21,  2.68it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 143 | val_loss: -346.4333801269531                                                                    
+Epoch:  72%|████████████████████████████████████████████▋                 | 144/200 [00:55<00:20,  2.68it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 144 | val_loss: -355.16796875                                                                         
+Epoch:  72%|████████████████████████████████████████████▉                 | 145/200 [00:55<00:20,  2.68it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 145 | val_loss: -356.859375                                                                           
+Epoch:  73%|█████████████████████████████████████████████▎                | 146/200 [00:55<00:20,  2.69it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 146 | val_loss: -359.3429260253906                                                                    
+Epoch:  74%|█████████████████████████████████████████████▌                | 147/200 [00:56<00:19,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 147 | val_loss: -363.36029052734375                                                                   
+Epoch:  74%|█████████████████████████████████████████████▉                | 148/200 [00:56<00:19,  2.68it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 148 | val_loss: -368.7689208984375                                                                    
+Epoch:  74%|██████████████████████████████████████████████▏               | 149/200 [00:57<00:19,  2.68it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 149 | val_loss: -368.65240478515625                                                                   
+Epoch:  75%|██████████████████████████████████████████████▌               | 150/200 [00:57<00:18,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                          Leaking Caffe2 thread-pool after fork. (function pthreadpool)             
+Accuracy: 100.00%
+Accuracy: 60.96%
+Epoch: 150 | val_loss: -369.61907958984375
+Epoch:  76%|██████████████████████████████████████████████▊               | 151/200 [00:58<00:22,  2.19it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 151 | val_loss: -378.4130859375                                                                       
+Epoch:  76%|███████████████████████████████████████████████               | 152/200 [00:58<00:20,  2.34it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 152 | val_loss: -377.403076171875                                                                     
+Epoch:  76%|███████████████████████████████████████████████▍              | 153/200 [00:58<00:19,  2.45it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 153 | val_loss: -386.2992248535156                                                                    
+Epoch:  77%|███████████████████████████████████████████████▋              | 154/200 [00:59<00:18,  2.53it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 154 | val_loss: -391.7564697265625                                                                    
+Epoch:  78%|████████████████████████████████████████████████              | 155/200 [00:59<00:17,  2.60it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 155 | val_loss: -397.4322509765625                                                                    
+Epoch:  78%|████████████████████████████████████████████████▎             | 156/200 [00:59<00:16,  2.63it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 156 | val_loss: -400.8678894042969                                                                    
+Epoch:  78%|████████████████████████████████████████████████▋             | 157/200 [01:00<00:16,  2.64it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 157 | val_loss: -408.45855712890625                                                                   
+Epoch:  79%|████████████████████████████████████████████████▉             | 158/200 [01:00<00:15,  2.66it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 158 | val_loss: -412.56219482421875                                                                   
+Epoch:  80%|█████████████████████████████████████████████████▎            | 159/200 [01:01<00:15,  2.67it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 159 | val_loss: -412.5302429199219                                                                    
+Epoch:  80%|█████████████████████████████████████████████████▌            | 160/200 [01:01<00:14,  2.69it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 160 | val_loss: -414.79541015625                                                                      
+Epoch:  80%|█████████████████████████████████████████████████▉            | 161/200 [01:01<00:14,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 161 | val_loss: -392.34332275390625                                                                   
+Epoch:  81%|██████████████████████████████████████████████████▏           | 162/200 [01:02<00:14,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 162 | val_loss: -419.8657531738281                                                                    
+Epoch:  82%|██████████████████████████████████████████████████▌           | 163/200 [01:02<00:13,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 163 | val_loss: -425.9876708984375                                                                    
+Epoch:  82%|██████████████████████████████████████████████████▊           | 164/200 [01:02<00:13,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 164 | val_loss: -428.09521484375                                                                      
+Epoch:  82%|███████████████████████████████████████████████████▏          | 165/200 [01:03<00:12,  2.71it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 165 | val_loss: -416.21551513671875                                                                   
+Epoch:  83%|███████████████████████████████████████████████████▍          | 166/200 [01:03<00:12,  2.71it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 166 | val_loss: -415.24462890625                                                                      
+Epoch:  84%|███████████████████████████████████████████████████▊          | 167/200 [01:04<00:12,  2.72it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 167 | val_loss: -419.57867431640625                                                                   
+Epoch:  84%|████████████████████████████████████████████████████          | 168/200 [01:04<00:11,  2.71it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 168 | val_loss: -430.452880859375                                                                     
+Epoch:  84%|████████████████████████████████████████████████████▍         | 169/200 [01:04<00:11,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 169 | val_loss: -438.2944030761719                                                                    
+Epoch:  85%|████████████████████████████████████████████████████▋         | 170/200 [01:05<00:11,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 170 | val_loss: -439.51214599609375                                                                   
+Epoch:  86%|█████████████████████████████████████████████████████         | 171/200 [01:05<00:10,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 171 | val_loss: -460.2243347167969                                                                    
+Epoch:  86%|█████████████████████████████████████████████████████▎        | 172/200 [01:05<00:10,  2.68it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 172 | val_loss: -465.45806884765625                                                                   
+Epoch:  86%|█████████████████████████████████████████████████████▋        | 173/200 [01:06<00:10,  2.69it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 173 | val_loss: -468.87518310546875                                                                   
+Epoch:  87%|█████████████████████████████████████████████████████▉        | 174/200 [01:06<00:09,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 174 | val_loss: -478.20513916015625                                                                   
+Epoch:  88%|██████████████████████████████████████████████████████▎       | 175/200 [01:06<00:09,  2.69it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 175 | val_loss: -478.4513854980469                                                                    
+Epoch:  88%|██████████████████████████████████████████████████████▌       | 176/200 [01:07<00:08,  2.71it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 176 | val_loss: -460.6049499511719                                                                    
+Epoch:  88%|██████████████████████████████████████████████████████▊       | 177/200 [01:07<00:08,  2.73it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 177 | val_loss: -445.4526062011719                                                                    
+Epoch:  89%|███████████████████████████████████████████████████████▏      | 178/200 [01:08<00:08,  2.73it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 178 | val_loss: -477.6303405761719                                                                    
+Epoch:  90%|███████████████████████████████████████████████████████▍      | 179/200 [01:08<00:07,  2.71it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 179 | val_loss: -495.81744384765625                                                                   
+Epoch:  90%|███████████████████████████████████████████████████████▊      | 180/200 [01:08<00:07,  2.72it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 180 | val_loss: -501.30316162109375                                                                   
+Epoch:  90%|████████████████████████████████████████████████████████      | 181/200 [01:09<00:07,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 181 | val_loss: -515.805419921875                                                                     
+Epoch:  91%|████████████████████████████████████████████████████████▍     | 182/200 [01:09<00:06,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 182 | val_loss: -522.685791015625                                                                     
+Epoch:  92%|████████████████████████████████████████████████████████▋     | 183/200 [01:09<00:06,  2.69it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 183 | val_loss: -521.2694702148438                                                                    
+Epoch:  92%|█████████████████████████████████████████████████████████     | 184/200 [01:10<00:05,  2.69it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 184 | val_loss: -532.88037109375                                                                      
+Epoch:  92%|█████████████████████████████████████████████████████████▎    | 185/200 [01:10<00:05,  2.71it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 185 | val_loss: -534.9716796875                                                                       
+Epoch:  93%|█████████████████████████████████████████████████████████▋    | 186/200 [01:11<00:05,  2.71it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 186 | val_loss: -540.9228515625                                                                       
+Epoch:  94%|█████████████████████████████████████████████████████████▉    | 187/200 [01:11<00:04,  2.71it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 187 | val_loss: -551.4400634765625                                                                    
+Epoch:  94%|██████████████████████████████████████████████████████████▎   | 188/200 [01:11<00:04,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 188 | val_loss: -558.690673828125                                                                     
+Epoch:  94%|██████████████████████████████████████████████████████████▌   | 189/200 [01:12<00:04,  2.71it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 189 | val_loss: -560.553466796875                                                                     
+Epoch:  95%|██████████████████████████████████████████████████████████▉   | 190/200 [01:12<00:03,  2.72it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 190 | val_loss: -557.7548828125                                                                       
+Epoch:  96%|███████████████████████████████████████████████████████████▏  | 191/200 [01:12<00:03,  2.72it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 191 | val_loss: -569.9291381835938                                                                    
+Epoch:  96%|███████████████████████████████████████████████████████████▌  | 192/200 [01:13<00:02,  2.73it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 192 | val_loss: -578.76611328125                                                                      
+Epoch:  96%|███████████████████████████████████████████████████████████▊  | 193/200 [01:13<00:02,  2.73it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 193 | val_loss: -582.4566650390625                                                                    
+Epoch:  97%|████████████████████████████████████████████████████████████▏ | 194/200 [01:13<00:02,  2.74it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 194 | val_loss: -589.1546020507812                                                                    
+Epoch:  98%|████████████████████████████████████████████████████████████▍ | 195/200 [01:14<00:01,  2.75it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 195 | val_loss: -591.2034912109375                                                                    
+Epoch:  98%|████████████████████████████████████████████████████████████▊ | 196/200 [01:14<00:01,  2.73it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 196 | val_loss: -596.865234375                                                                        
+Epoch:  98%|█████████████████████████████████████████████████████████████ | 197/200 [01:15<00:01,  2.71it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 197 | val_loss: -606.775146484375                                                                     
+Epoch:  99%|█████████████████████████████████████████████████████████████▍| 198/200 [01:15<00:00,  2.69it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                           Epoch: 198 | val_loss: -611.8516845703125                                                                    
+Epoch: 100%|█████████████████████████████████████████████████████████████▋| 199/200 [01:15<00:00,  2.70it/Leaking Caffe2 thread-pool after fork. (function pthreadpool):00<?, ?it/s]
+                                                                                                          Leaking Caffe2 thread-pool after fork. (function pthreadpool)             
+Accuracy: 100.00%
+Accuracy: 75.10%
+Epoch: 199 | val_loss: -613.73046875
+Epoch: 100%|██████████████████████████████████████████████████████████████| 200/200 [01:16<00:00,  2.61it/s]

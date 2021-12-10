@@ -1,0 +1,252 @@
+{
+    "0": {
+        "best_parameters": "split:00 n_estimators:198 learning_rate:0.036644164287122465 subsample:0.7320637812703805 max_depth:9 colsample_bytree:0.8832369421309694 gamma:0.3 min_child_weight:1 ",
+        "test_balanced_acc": 0.5159288904929342,
+        "train_balanced_acc": 0.9073713730938211
+    },
+    "1": {
+        "best_parameters": "split:01 n_estimators:223 learning_rate:0.08111608065343233 subsample:0.6891879777350192 max_depth:9 colsample_bytree:0.5571246668545021 gamma:0.4 min_child_weight:1 ",
+        "test_balanced_acc": 0.7608302286519746,
+        "train_balanced_acc": 0.9657985444984684
+    },
+    "10": {
+        "best_parameters": "split:10 n_estimators:669 learning_rate:0.10933731682572556 subsample:0.7415095784193604 max_depth:9 colsample_bytree:0.7201870544144546 gamma:0.0 min_child_weight:7 ",
+        "test_balanced_acc": 0.6177330737308852,
+        "train_balanced_acc": 0.9533105977375563
+    },
+    "11": {
+        "best_parameters": "split:11 n_estimators:427 learning_rate:0.0884939521213731 subsample:0.8241051514032454 max_depth:4 colsample_bytree:0.8248003313231189 gamma:0.2 min_child_weight:5 ",
+        "test_balanced_acc": 0.6803733300282974,
+        "train_balanced_acc": 0.8414042084386729
+    },
+    "12": {
+        "best_parameters": "split:12 n_estimators:392 learning_rate:0.06026656960122703 subsample:0.8515612691645955 max_depth:7 colsample_bytree:0.7653377713449503 gamma:0.0 min_child_weight:11 ",
+        "test_balanced_acc": 0.6618121917267279,
+        "train_balanced_acc": 0.9066379578395325
+    },
+    "13": {
+        "best_parameters": "split:13 n_estimators:641 learning_rate:0.02446522840845647 subsample:0.48355619684831375 max_depth:8 colsample_bytree:0.7582580063283144 gamma:0.1 min_child_weight:5 ",
+        "test_balanced_acc": 0.5970546383721329,
+        "train_balanced_acc": 0.9213483446977077
+    },
+    "14": {
+        "best_parameters": "split:14 n_estimators:648 learning_rate:0.10433470142861705 subsample:0.8262210101918994 max_depth:8 colsample_bytree:0.6409309982157603 gamma:0.4 min_child_weight:3 ",
+        "test_balanced_acc": 0.6257303139436038,
+        "train_balanced_acc": 0.9176915639585846
+    },
+    "15": {
+        "best_parameters": "split:15 n_estimators:775 learning_rate:0.021082788149559276 subsample:0.40669241823909746 max_depth:9 colsample_bytree:0.8097441383299182 gamma:0.2 min_child_weight:5 ",
+        "test_balanced_acc": 0.5243880385971627,
+        "train_balanced_acc": 0.8092152691094472
+    },
+    "16": {
+        "best_parameters": "split:16 n_estimators:386 learning_rate:0.3191989395882673 subsample:0.8971759674951374 max_depth:9 colsample_bytree:0.5243235487510252 gamma:0.0 min_child_weight:5 ",
+        "test_balanced_acc": 0.5216130277502785,
+        "train_balanced_acc": 0.8922781457486124
+    },
+    "17": {
+        "best_parameters": "split:17 n_estimators:278 learning_rate:0.06695216883483884 subsample:0.4666005002179563 max_depth:8 colsample_bytree:0.5494528429552825 gamma:0.0 min_child_weight:9 ",
+        "test_balanced_acc": 0.5021564919422159,
+        "train_balanced_acc": 0.7628279065095214
+    },
+    "18": {
+        "best_parameters": "split:18 n_estimators:307 learning_rate:0.11717083413485323 subsample:0.7194602662704842 max_depth:6 colsample_bytree:0.7994382880138899 gamma:0.1 min_child_weight:1 ",
+        "test_balanced_acc": 0.588132209528478,
+        "train_balanced_acc": 0.8581469751660818
+    },
+    "19": {
+        "best_parameters": "split:19 n_estimators:723 learning_rate:0.12764375704425482 subsample:0.5060551726672982 max_depth:7 colsample_bytree:0.7750709360760482 gamma:0.0 min_child_weight:9 ",
+        "test_balanced_acc": 0.6281559873765205,
+        "train_balanced_acc": 0.8898273609138005
+    },
+    "2": {
+        "best_parameters": "split:02 n_estimators:315 learning_rate:0.43789067736050036 subsample:0.6501982168019358 max_depth:4 colsample_bytree:0.671225464170204 gamma:0.3 min_child_weight:5 ",
+        "test_balanced_acc": 0.6109073254935807,
+        "train_balanced_acc": 0.8604092543090763
+    },
+    "20": {
+        "best_parameters": "split:20 n_estimators:516 learning_rate:0.03985659820390577 subsample:0.6548716765412286 max_depth:5 colsample_bytree:0.5364046855174218 gamma:0.3 min_child_weight:1 ",
+        "test_balanced_acc": 0.6347383438088708,
+        "train_balanced_acc": 0.840457511961211
+    },
+    "21": {
+        "best_parameters": "split:21 n_estimators:312 learning_rate:0.3273069047393909 subsample:0.8674050346920055 max_depth:6 colsample_bytree:0.733538136681431 gamma:0.3 min_child_weight:5 ",
+        "test_balanced_acc": 0.536888246865626,
+        "train_balanced_acc": 0.7610424036572229
+    },
+    "22": {
+        "best_parameters": "split:22 n_estimators:648 learning_rate:0.027595328821374027 subsample:0.5463438379356085 max_depth:7 colsample_bytree:0.6595073926779331 gamma:0.3 min_child_weight:1 ",
+        "test_balanced_acc": 0.5799443590562343,
+        "train_balanced_acc": 0.9161764239035795
+    },
+    "23": {
+        "best_parameters": "split:23 n_estimators:417 learning_rate:0.058036383498353876 subsample:0.36931276010115316 max_depth:9 colsample_bytree:0.836878778886819 gamma:0.2 min_child_weight:1 ",
+        "test_balanced_acc": 0.556266759522234,
+        "train_balanced_acc": 0.9138351017555881
+    },
+    "24": {
+        "best_parameters": "split:24 n_estimators:492 learning_rate:0.024166302904345842 subsample:0.5025990973192236 max_depth:7 colsample_bytree:0.6599824363425036 gamma:0.0 min_child_weight:7 ",
+        "test_balanced_acc": 0.692286271191019,
+        "train_balanced_acc": 0.8460597857090965
+    },
+    "25": {
+        "best_parameters": "split:25 n_estimators:696 learning_rate:0.06854798214519789 subsample:0.5474750295481732 max_depth:8 colsample_bytree:0.8271822572827545 gamma:0.4 min_child_weight:3 ",
+        "test_balanced_acc": 0.6216896162687928,
+        "train_balanced_acc": 0.9148897193973347
+    },
+    "26": {
+        "best_parameters": "split:26 n_estimators:784 learning_rate:0.042146038229701796 subsample:0.680852416684006 max_depth:8 colsample_bytree:0.7867697808852552 gamma:0.0 min_child_weight:5 ",
+        "test_balanced_acc": 0.6254869196790115,
+        "train_balanced_acc": 0.9309699825495009
+    },
+    "27": {
+        "best_parameters": "split:27 n_estimators:517 learning_rate:0.02937851205630873 subsample:0.8813126509794271 max_depth:7 colsample_bytree:0.8751990163021035 gamma:0.4 min_child_weight:1 ",
+        "test_balanced_acc": 0.6623317401827328,
+        "train_balanced_acc": 0.9033109545312975
+    },
+    "28": {
+        "best_parameters": "split:28 n_estimators:564 learning_rate:0.1346088071824948 subsample:0.7489224706357793 max_depth:8 colsample_bytree:0.7012516373151899 gamma:0.1 min_child_weight:5 ",
+        "test_balanced_acc": 0.5828329849372308,
+        "train_balanced_acc": 0.9025135488099507
+    },
+    "29": {
+        "best_parameters": "split:29 n_estimators:619 learning_rate:0.07327336958859292 subsample:0.7987114181070594 max_depth:6 colsample_bytree:0.5545171047675522 gamma:0.0 min_child_weight:5 ",
+        "test_balanced_acc": 0.5863268250076631,
+        "train_balanced_acc": 0.8891455918543647
+    },
+    "3": {
+        "best_parameters": "split:03 n_estimators:668 learning_rate:0.08702007676179004 subsample:0.6090285251357265 max_depth:8 colsample_bytree:0.6036855478573513 gamma:0.0 min_child_weight:1 ",
+        "test_balanced_acc": 0.5579819768149822,
+        "train_balanced_acc": 0.8982659569645371
+    },
+    "30": {
+        "best_parameters": "split:30 n_estimators:521 learning_rate:0.18521294218213305 subsample:0.7899099882288858 max_depth:6 colsample_bytree:0.5312740604163025 gamma:0.2 min_child_weight:1 ",
+        "test_balanced_acc": 0.559582897580763,
+        "train_balanced_acc": 0.8002650448668813
+    },
+    "31": {
+        "best_parameters": "split:31 n_estimators:575 learning_rate:0.033758399495584256 subsample:0.49851260413385756 max_depth:9 colsample_bytree:0.6015305781829501 gamma:0.1 min_child_weight:11 ",
+        "test_balanced_acc": 0.5024769516689417,
+        "train_balanced_acc": 0.7953258718280778
+    },
+    "32": {
+        "best_parameters": "split:32 n_estimators:289 learning_rate:0.2403832371936648 subsample:0.8949166097380479 max_depth:7 colsample_bytree:0.723493432735781 gamma:0.2 min_child_weight:3 ",
+        "test_balanced_acc": 0.6336820036366025,
+        "train_balanced_acc": 0.9587809299543993
+    },
+    "33": {
+        "best_parameters": "split:33 n_estimators:425 learning_rate:0.20377554981229137 subsample:0.5668806695523654 max_depth:3 colsample_bytree:0.7886993795382818 gamma:0.0 min_child_weight:3 ",
+        "test_balanced_acc": 0.7374079572723499,
+        "train_balanced_acc": 0.8466774109189341
+    },
+    "34": {
+        "best_parameters": "split:34 n_estimators:247 learning_rate:0.17318462861609835 subsample:0.8950866545986844 max_depth:5 colsample_bytree:0.7856814968005552 gamma:0.4 min_child_weight:5 ",
+        "test_balanced_acc": 0.6695699714608575,
+        "train_balanced_acc": 0.8778478988462769
+    },
+    "35": {
+        "best_parameters": "split:35 n_estimators:543 learning_rate:0.1534670720023739 subsample:0.7300341020295674 max_depth:9 colsample_bytree:0.8455997801964286 gamma:0.0 min_child_weight:5 ",
+        "test_balanced_acc": 0.6034865672294519,
+        "train_balanced_acc": 0.8522372521761735
+    },
+    "36": {
+        "best_parameters": "split:36 n_estimators:491 learning_rate:0.12851907796018608 subsample:0.8026503468771837 max_depth:7 colsample_bytree:0.5852469957793976 gamma:0.4 min_child_weight:5 ",
+        "test_balanced_acc": 0.6249281024631229,
+        "train_balanced_acc": 0.8985678605104074
+    },
+    "37": {
+        "best_parameters": "split:37 n_estimators:616 learning_rate:0.02039524137519224 subsample:0.8146496466561337 max_depth:9 colsample_bytree:0.7443904767520753 gamma:0.1 min_child_weight:9 ",
+        "test_balanced_acc": 0.638603854667203,
+        "train_balanced_acc": 0.9081501671689173
+    },
+    "38": {
+        "best_parameters": "split:38 n_estimators:682 learning_rate:0.1154744821436242 subsample:0.8054529509892852 max_depth:6 colsample_bytree:0.5216530164088483 gamma:0.4 min_child_weight:11 ",
+        "test_balanced_acc": 0.6809281720913251,
+        "train_balanced_acc": 0.9424438361388798
+    },
+    "39": {
+        "best_parameters": "split:39 n_estimators:518 learning_rate:0.05319972824595856 subsample:0.8036385786426401 max_depth:9 colsample_bytree:0.8372780836565199 gamma:0.0 min_child_weight:11 ",
+        "test_balanced_acc": 0.7176921761257112,
+        "train_balanced_acc": 0.9407770136584469
+    },
+    "4": {
+        "best_parameters": "split:04 n_estimators:781 learning_rate:0.18336989556966493 subsample:0.8193583161569631 max_depth:7 colsample_bytree:0.5878978939320061 gamma:0.4 min_child_weight:5 ",
+        "test_balanced_acc": 0.5904413748003653,
+        "train_balanced_acc": 0.8280068658208521
+    },
+    "40": {
+        "best_parameters": "split:40 n_estimators:521 learning_rate:0.05182249131014601 subsample:0.846682342566891 max_depth:9 colsample_bytree:0.5073724872443627 gamma:0.4 min_child_weight:9 ",
+        "test_balanced_acc": 0.5537587185095884,
+        "train_balanced_acc": 0.8238313857148002
+    },
+    "41": {
+        "best_parameters": "split:41 n_estimators:510 learning_rate:0.07144971484224295 subsample:0.818373698195402 max_depth:9 colsample_bytree:0.7173216827987888 gamma:0.3 min_child_weight:3 ",
+        "test_balanced_acc": 0.6369157546569579,
+        "train_balanced_acc": 0.9488720492016696
+    },
+    "42": {
+        "best_parameters": "split:42 n_estimators:646 learning_rate:0.024742975409211478 subsample:0.5700654246768411 max_depth:8 colsample_bytree:0.7188547553466099 gamma:0.4 min_child_weight:1 ",
+        "test_balanced_acc": 0.7450356147955639,
+        "train_balanced_acc": 0.940676472003026
+    },
+    "43": {
+        "best_parameters": "split:43 n_estimators:755 learning_rate:0.043692997366469956 subsample:0.6763475724545948 max_depth:9 colsample_bytree:0.7151317636700287 gamma:0.3 min_child_weight:1 ",
+        "test_balanced_acc": 0.6625178120712206,
+        "train_balanced_acc": 0.944733928831493
+    },
+    "44": {
+        "best_parameters": "split:44 n_estimators:282 learning_rate:0.23510364969133235 subsample:0.8440645811053256 max_depth:7 colsample_bytree:0.5795345651379531 gamma:0.2 min_child_weight:1 ",
+        "test_balanced_acc": 0.6457243926419474,
+        "train_balanced_acc": 0.9074505487642383
+    },
+    "45": {
+        "best_parameters": "split:45 n_estimators:346 learning_rate:0.03894251964209936 subsample:0.7966771147943855 max_depth:7 colsample_bytree:0.7473505940265 gamma:0.1 min_child_weight:3 ",
+        "test_balanced_acc": 0.6852759216479298,
+        "train_balanced_acc": 0.8951408384483366
+    },
+    "46": {
+        "best_parameters": "split:46 n_estimators:258 learning_rate:0.10941041124830717 subsample:0.873472095342722 max_depth:5 colsample_bytree:0.6297782214423885 gamma:0.2 min_child_weight:7 ",
+        "test_balanced_acc": 0.6326273052341528,
+        "train_balanced_acc": 0.8608783195889386
+    },
+    "47": {
+        "best_parameters": "split:47 n_estimators:422 learning_rate:0.22581350699738675 subsample:0.8843953791296002 max_depth:4 colsample_bytree:0.5421733168285419 gamma:0.4 min_child_weight:5 ",
+        "test_balanced_acc": 0.5665686820684259,
+        "train_balanced_acc": 0.741308844745915
+    },
+    "48": {
+        "best_parameters": "split:48 n_estimators:488 learning_rate:0.04626174476653486 subsample:0.7078754017910116 max_depth:6 colsample_bytree:0.8956018147005695 gamma:0.3 min_child_weight:3 ",
+        "test_balanced_acc": 0.7040053885362078,
+        "train_balanced_acc": 0.9058630006601689
+    },
+    "49": {
+        "best_parameters": "split:49 n_estimators:742 learning_rate:0.14882498665901006 subsample:0.7904591685041904 max_depth:8 colsample_bytree:0.5088483201744527 gamma:0.2 min_child_weight:9 ",
+        "test_balanced_acc": 0.5859933672408286,
+        "train_balanced_acc": 0.8861931195357754
+    },
+    "5": {
+        "best_parameters": "split:05 n_estimators:421 learning_rate:0.02569229882385239 subsample:0.5811572963668111 max_depth:7 colsample_bytree:0.671576686366687 gamma:0.3 min_child_weight:5 ",
+        "test_balanced_acc": 0.5650554605346763,
+        "train_balanced_acc": 0.8711083542262689
+    },
+    "6": {
+        "best_parameters": "split:06 n_estimators:732 learning_rate:0.031836094667079935 subsample:0.7054184661974068 max_depth:7 colsample_bytree:0.7086434107894206 gamma:0.2 min_child_weight:3 ",
+        "test_balanced_acc": 0.6384750029785232,
+        "train_balanced_acc": 0.9044019739401318
+    },
+    "7": {
+        "best_parameters": "split:07 n_estimators:322 learning_rate:0.10525678879670053 subsample:0.8392355638642102 max_depth:9 colsample_bytree:0.8475597924393994 gamma:0.1 min_child_weight:9 ",
+        "test_balanced_acc": 0.5475425691868964,
+        "train_balanced_acc": 0.8348189200607238
+    },
+    "8": {
+        "best_parameters": "split:08 n_estimators:401 learning_rate:0.31043596709066196 subsample:0.8310629391641793 max_depth:9 colsample_bytree:0.6515738860953743 gamma:0.0 min_child_weight:9 ",
+        "test_balanced_acc": 0.6612448002830886,
+        "train_balanced_acc": 0.9418123870603742
+    },
+    "9": {
+        "best_parameters": "split:09 n_estimators:218 learning_rate:0.07018370263337782 subsample:0.8368470968124544 max_depth:8 colsample_bytree:0.816722856012186 gamma:0.4 min_child_weight:9 ",
+        "test_balanced_acc": 0.5458698691900091,
+        "train_balanced_acc": 0.8855993152903481
+    }
+}

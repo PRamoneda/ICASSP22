@@ -1,0 +1,138 @@
+{
+    "0": {
+        "test_balanced_acc": 0.6565656565656566,
+        "train_balanced_acc": 0.9510267362759057
+    },
+    "1": {
+        "test_balanced_acc": 0.7373737373737373,
+        "train_balanced_acc": 0.9510267362759057
+    },
+    "10": {
+        "test_balanced_acc": 0.5656565656565656,
+        "train_balanced_acc": 0.8884480303749407
+    },
+    "11": {
+        "test_balanced_acc": 0.7556332556332558,
+        "train_balanced_acc": 0.7922545219638243
+    },
+    "12": {
+        "test_balanced_acc": 0.5788655788655789,
+        "train_balanced_acc": 0.8055878552971576
+    },
+    "13": {
+        "test_balanced_acc": 0.6045066045066045,
+        "train_balanced_acc": 0.9306072351421188
+    },
+    "14": {
+        "test_balanced_acc": 0.6596736596736598,
+        "train_balanced_acc": 0.9051808785529717
+    },
+    "15": {
+        "test_balanced_acc": 0.3636363636363636,
+        "train_balanced_acc": 0.9141654801455465
+    },
+    "16": {
+        "test_balanced_acc": 0.6390831390831391,
+        "train_balanced_acc": 0.8659883720930233
+    },
+    "17": {
+        "test_balanced_acc": 0.6041181041181042,
+        "train_balanced_acc": 0.9508850129198967
+    },
+    "18": {
+        "test_balanced_acc": 0.6604506604506604,
+        "train_balanced_acc": 0.9431330749354006
+    },
+    "19": {
+        "test_balanced_acc": 0.6857031857031858,
+        "train_balanced_acc": 0.793062015503876
+    },
+    "2": {
+        "test_balanced_acc": 0.6048951048951049,
+        "train_balanced_acc": 0.8961886304909562
+    },
+    "20": {
+        "test_balanced_acc": 0.6041181041181042,
+        "train_balanced_acc": 0.9004069767441861
+    },
+    "21": {
+        "test_balanced_acc": 0.5839160839160839,
+        "train_balanced_acc": 0.96421834625323
+    },
+    "22": {
+        "test_balanced_acc": 0.5075757575757577,
+        "train_balanced_acc": 0.9721120075937352
+    },
+    "23": {
+        "test_balanced_acc": 0.6596736596736598,
+        "train_balanced_acc": 0.8240697674418606
+    },
+    "24": {
+        "test_balanced_acc": 0.7702020202020202,
+        "train_balanced_acc": 0.966530612244898
+    },
+    "25": {
+        "test_balanced_acc": 0.6386946386946387,
+        "train_balanced_acc": 0.9586369509043927
+    },
+    "26": {
+        "test_balanced_acc": 0.6091686091686092,
+        "train_balanced_acc": 0.9065439276485788
+    },
+    "27": {
+        "test_balanced_acc": 0.6398601398601399,
+        "train_balanced_acc": 0.9930555555555555
+    },
+    "28": {
+        "test_balanced_acc": 0.6489898989898991,
+        "train_balanced_acc": 0.964360069609239
+    },
+    "29": {
+        "test_balanced_acc": 0.6651126651126651,
+        "train_balanced_acc": 0.9508850129198967
+    },
+    "3": {
+        "test_balanced_acc": 0.6515151515151515,
+        "train_balanced_acc": 0.964360069609239
+    },
+    "30": {
+        "test_balanced_acc": 0.5439005439005439,
+        "train_balanced_acc": 0.8344250645994832
+    },
+    "31": {
+        "test_balanced_acc": 0.5695415695415695,
+        "train_balanced_acc": 0.9220478036175711
+    },
+    "32": {
+        "test_balanced_acc": 0.7070707070707071,
+        "train_balanced_acc": 0.7438242894056848
+    },
+    "33": {
+        "test_balanced_acc": 0.8022533022533023,
+        "train_balanced_acc": 0.7900839793281653
+    },
+    "4": {
+        "test_balanced_acc": 0.5839160839160839,
+        "train_balanced_acc": 0.8870736434108527
+    },
+    "5": {
+        "test_balanced_acc": 0.49766899766899764,
+        "train_balanced_acc": 0.8918475452196383
+    },
+    "6": {
+        "test_balanced_acc": 0.5481740481740481,
+        "train_balanced_acc": 0.7778100775193799
+    },
+    "7": {
+        "test_balanced_acc": 0.6048951048951049,
+        "train_balanced_acc": 0.8357881136950903
+    },
+    "8": {
+        "test_balanced_acc": 0.5835275835275834,
+        "train_balanced_acc": 0.8840956072351421
+    },
+    "9": {
+        "test_balanced_acc": 0.6394716394716394,
+        "train_balanced_acc": 0.9297997416020672
+    }
+}
